@@ -12,5 +12,8 @@ public class PolyTest {
         // 此时，animal的编译类型还是Animal，但是运行类型变成了 Cat
         animal = new Cat();
         animal.cry();
+
+
     }
 }
+
